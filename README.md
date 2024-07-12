@@ -1,2 +1,2 @@
-# Cervical-Cancer-Clasification
-This is my capstone project for the "Biomedical Image Processing" course, focusing on classifying normal and pathological cervical cells in Pap smear images using CNN methods. The project employs Convolutional Neural Networks to analyze and distinguish between healthy and abnormal cervical cells effectively.
+# Classification of Normal and Pathological Cervical Cells in Pap Smear Images Using the CNN Method
+This is my final project for the "Biomedical Image Processing" course, focusing on classifying normal and pathological cervical cells in Pap smear images using CNN methods. The project employs Convolutional Neural Networks to analyze and distinguish between healthy and abnormal cervical cells effectively.
